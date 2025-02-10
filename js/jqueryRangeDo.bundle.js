@@ -1,0 +1,1 @@
+$(".filters-range").jRange({from:0,to:250,step:1,format:"%s",width:217,showLabels:!0,isRange:!0});

@@ -1,0 +1,1 @@
+window.$=jQuery,window.jQuery=jQuery,$(".number").styler(),$(".tab-pane__group-select").styler();
